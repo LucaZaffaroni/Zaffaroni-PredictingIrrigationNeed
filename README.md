@@ -2,7 +2,8 @@
 ## Project Work on Machine Learning and Data Mining M - B2126
 
 ### Submission File
-For each id, you must predict a class label (Low, Medium, High) for the Irrigation_Need target. The file should contain a header and have the following format:
+For each id, you must predict a class label (Low, Medium, High) for the Irrigation_Need target.
+The file should contain a header and have the following format:
 
 id,Irrigation_Need
 630000,Low
