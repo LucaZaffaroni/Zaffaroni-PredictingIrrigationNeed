@@ -1,6 +1,10 @@
 # Zaffaroni-PredictingIrrigationNeed
 ## Project Work on Machine Learning and Data Mining M - B2126
 
+### Link to the kaggle competiton
+
+https://www.kaggle.com/competitions/playground-series-s6e4/
+
 ### Submission File
 For each id, you must predict a class label (Low, Medium, High) for the Irrigation_Need target.
 The file should contain a header and have the following format:
