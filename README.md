@@ -21,6 +21,7 @@ Feature distributions are close to, but not exactly the same, as the original.
 
 #### Files  ->  train.csv 
 The training set for train validation and test, with Irrigation_Need as target
+Unzip file from https://github.com/LucaZaffaroni/Zaffaroni-PredictingIrrigationNeed/blob/main/train.zip
 
 #### Size  ->  116.04 MB
 
